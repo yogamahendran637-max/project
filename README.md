@@ -164,5 +164,11 @@ shop.html
 </html>
 ```
 # OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/15cdf494-c6e9-4808-bd9a-42f9684db3ef" />
+<img width="1920" height="1080" alt="Screenshot (50) (1)" src="https://github.com/user-attachments/assets/5cadd2a3-8659-4bff-a145-588de9b2ebfb" />
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/127b7735-26b6-4d2a-b52d-4b44a34f5603" />
+
+
+
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
